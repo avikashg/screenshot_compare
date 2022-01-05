@@ -1,0 +1,18 @@
+{
+    "envs": [
+        "prod",
+        "stage"
+    ],
+    "view_ports": [
+        "1152x720",
+        "1440x900",
+        "1920x1080"
+    ],
+    "urls": [
+        {
+            "name": "homepage",
+            "prod": "https://www.homebazaar.com",
+            "stage": "http://nginx.yourhomekart.in"
+        }
+    ]
+}
